@@ -8,7 +8,7 @@ all: $(FILE_c) $(FILE_o)
 $(FILE_o): $(FILE_c)
 	$(CC) -c $(FILE_c)
 
-test: tests/test.c perimeter.c
+test: test.c perimeter.c
 	$(CC) -o test $^
 
 clean:
