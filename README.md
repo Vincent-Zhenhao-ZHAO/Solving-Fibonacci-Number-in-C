@@ -1,5 +1,3 @@
-- Student Name: Zhenhao Zhao
-
 For this coursework we want to create a very simple C program that takes a number as an input and returns the perimeter of a sequence of squares.
 
 The rectangle is aranged as follows:
